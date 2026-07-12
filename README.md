@@ -5,7 +5,7 @@
 </a>
 <br/>
 <p>
-  <a href="https://sharanyareddy-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0F0C29?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
+  <a href="https://sharanya-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0F0C29?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
   <a href="https://linkedin.com/in/guda-sharanya-reddy-55283433b"><img src="https://img.shields.io/badge/LINKEDIN-0F0C29?style=for-the-badge&logo=linkedin&logoColor=818CF8" /></a>
   <a href="mailto:gudasharanyareddy2703@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F0C29?style=for-the-badge&logo=gmail&logoColor=6366F1" /></a>
   <a href="https://github.com/SharanyaReddy27"><img src="https://img.shields.io/badge/GITHUB-0F0C29?style=for-the-badge&logo=github&logoColor=C4B5FD" /></a>
@@ -114,10 +114,8 @@ TOOLS
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6D28D9,100:2563EB&height=90&section=header&text=AI%20%2F%20ML%20%26%20Analytics%20Expertise&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </div>
-<div align="center">
 DomainProficiencyDetails🧠 Machine Learning●●●●○Supervised learning, model evaluation, applied predictive modeling📊 Data Analytics●●●●●End-to-end ETL pipelines, data cleaning, exploratory analysis📈 Data Visualization●●●●●Power BI dashboards, Tableau storytelling, Matplotlib/Seaborn🔮 Predictive Analytics●●●●○Trend forecasting, statistical modeling, risk scoring💰 Financial Analytics●●●●●Sharpe Ratio, Volatility, Value at Risk (VaR), portfolio analysis💻 Full Stack Engineering●●●●●React, Node.js, Express, MongoDB, MySQL production systems🗄️ SQL Analytics●●●●●Complex queries, schema design, performance optimization
 
-</div>
 <br/>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:2563EB&height=3&width=1000" width="90%"/>
@@ -131,23 +129,23 @@ DomainProficiencyDetails🧠 Machine Learning●●●●○Supervised learning,
 <br/>
 A full-scale financial analytics platform that transforms raw mutual fund data into actionable investment insights through automated ETL pipelines and interactive dashboards.
 
-StackPython · Pandas · SQLite · SQL · Power BIArchitectureModular ETL pipeline → SQLite data warehouse → SQL analytical layer → Power BI presentation layerKey FeaturesAutomated ETL ingestion, Sharpe Ratio computation, Volatility analysis, Value at Risk (VaR) modeling, interactive dashboardPerformanceOptimized SQL queries for large historical NAV datasets with sub-second dashboard refreshImpactEnabled data-driven fund comparison and risk-adjusted return analysisRepositoryView Repository →TechnologiesPython Pandas SQLite SQL Power BI
+StackPython · Pandas · SQLite · SQL · Power BIArchitectureModular ETL pipeline → SQLite data warehouse → SQL analytical layer → Power BI presentation layerKey FeaturesAutomated ETL ingestion, CAGR & Sharpe Ratio computation, Volatility analysis, Value at Risk (VaR) modeling, interactive dashboardImpactEnabled data-driven fund comparison and risk-adjusted return analysisRepositorybluestock_mf_capstone →TechnologiesPython Pandas SQLite SQL Power BI
 
 </details>
 <details>
-<summary><b>🔒&nbsp; Cross-Channel Fraud Detection System</b></summary>
+<summary><b>🔒&nbsp; Cross-Channel Fraud Detection & Behavior Monitoring System</b></summary>
 <br/>
 A real-time fraud monitoring platform analyzing transactional behavior across multiple channels to flag anomalies through an intuitive analyst dashboard.
 
-StackReact · Node.js · Express · MongoDBArchitectureReact SPA frontend → Express REST API → MongoDB behavioral data storeKey FeaturesCross-channel fraud monitoring, behavior pattern analysis, real-time risk dashboard, configurable risk indicatorsPerformanceEfficient MongoDB aggregation pipelines for near real-time anomaly detectionImpactReduced manual review effort by surfacing high-risk transactions automaticallyRepositoryView Repository →TechnologiesReact Node.js Express MongoDB
+StackReact · Node.js · Express · MongoDBArchitectureReact SPA frontend → Express REST API → MongoDB behavioral data storeKey FeaturesCross-channel fraud monitoring, behavior pattern analysis, real-time risk dashboard, configurable risk indicatorsImpactReduced manual review effort by surfacing high-risk transactions automaticallyRepositoryfraud-monitoring-system →Live Demofraud-monitoring-system-1.onrender.com →TechnologiesReact Node.js Express MongoDB
 
 </details>
 <details>
-<summary><b>🏥&nbsp; Smart IV Fluid Monitoring System</b></summary>
+<summary><b>🏥&nbsp; Smart System for IV Fluid Monitoring</b></summary>
 <br/>
 A healthcare IoT-driven monitoring system tracking intravenous fluid levels in real time, alerting staff before critical thresholds are reached.
 
-StackReact · Node.js · Express · MongoDBArchitectureSensor data ingestion → Express API → MongoDB storage → React real-time dashboardKey FeaturesReal-time fluid level monitoring, automated threshold alerts, healthcare staff dashboardPerformanceLow-latency alerting pipeline for time-critical healthcare scenariosImpactImproved patient safety through proactive, automated alertsRepositoryView Repository →TechnologiesReact Node.js Express MongoDB
+StackReact · Node.js · Express · MongoDBArchitectureSensor data ingestion → Express API → MongoDB storage → React real-time dashboardKey FeaturesReal-time fluid level monitoring, automated threshold alerts, healthcare staff dashboardImpactImproved patient safety through proactive, automated alertsRepositorysmart-drip-monitoring →Live Demosmart-drip-monitoring.vercel.app →TechnologiesReact Node.js Express MongoDB
 
 </details>
 <details>
@@ -155,15 +153,15 @@ StackReact · Node.js · Express · MongoDBArchitectureSensor data ingestion →
 <br/>
 A secure web-based examination system supporting authenticated access, structured question management, and automated result generation.
 
-StackJava · MySQL · HTML · CSS · JavaScriptArchitectureJava backend services → MySQL relational database → HTML/CSS/JS client interfaceKey FeaturesSecure authentication, question bank management, automated result computationPerformanceOptimized MySQL schema for concurrent exam sessionsImpactStreamlined institutional exam administration and reduced manual grading effortRepositoryView Repository →TechnologiesJava MySQL HTML CSS JavaScript
+StackJava · MySQL · HTML · CSS · JavaScriptArchitectureJava backend services → MySQL relational database → HTML/CSS/JS client interfaceKey FeaturesSecure authentication, question bank management, automated result computationImpactStreamlined institutional exam administration and reduced manual grading effortRepositoryOnlineExam →TechnologiesJava MySQL HTML CSS JavaScript
 
 </details>
 <details>
-<summary><b>🦺&nbsp; Municipal Sanitation Worker Safety Dashboard</b></summary>
+<summary><b>🦺&nbsp; Municipal Sanitation Worker Safety Monitoring Dashboard</b></summary>
 <br/>
 A civic-tech safety platform protecting municipal sanitation workers through real-time health monitoring, GPS tracking, gas detection, and emergency alerting.
 
-StackPython · Flask · Leaflet.jsArchitectureFlask backend API → sensor/GPS data pipeline → Leaflet.js live mapping dashboardKey FeaturesReal-time health monitoring, GPS worker tracking, gas detection alerts, emergency notification systemPerformanceLive map rendering with minimal-latency location updatesImpactEnhanced worker safety through proactive hazard detection and rapid responseRepositoryView Repository →TechnologiesPython Flask Leaflet.js
+StackPython · Flask · HTML · CSS · JavaScript · Leaflet.jsArchitectureFlask backend API → sensor/GPS data pipeline → Leaflet.js live mapping dashboardKey FeaturesReal-time health monitoring, GPS worker tracking, gas detection alerts, Worker Exposure Management System (WEMS)ImpactEnhanced worker safety through proactive hazard detection and rapid responseRepositorysanitation-safety-dashboard →Live Demosanitation-safety-dashboard.vercel.app →TechnologiesPython Flask HTML CSS JavaScript Leaflet.js
 
 </details>
 <br/>
@@ -195,17 +193,34 @@ Collaborated cross-functionally to translate raw data into actionable visualizat
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6D28D9,100:2563EB&height=90&section=header&text=Achievements%20%26%20Certifications&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </div>
-<div align="center">
-🏆 Achievement📌 DetailAcademic ExcellenceCGPA 9.84/10Problem Solving300+ DSA Problems SolvedHackathonSmart India Hackathon ParticipantEngineering PortfolioMultiple Full Stack Projects DeliveredFinancial AnalyticsMutual Fund Analytics PlatformVirtual ExperienceJPMorgan Chase Forage ProgramVirtual ExperienceDeloitte Forage ProgramUpskillingInfosys Springboard CertificationIndustry ExposureBluestock Fintech Internship
+🏆 Achievement📌 DetailAcademic ExcellenceCGPA 9.84/10Problem Solving300+ DSA Problems SolvedHackathonSmart India Hackathon & multiple university-level hackathonsEngineering PortfolioMultiple Full Stack Projects DeliveredFinancial AnalyticsMutual Fund Analytics PlatformIndustry ExposureBluestock Fintech Internship
 
 <br/>
-<img src="https://img.shields.io/badge/Bluestock-Data%20Analyst%20Internship-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JPMorgan%20Chase-Forage%20Simulation-4F46E5?style=for-the-badge&logo=jpmorganchase&logoColor=white" />
-<img src="https://img.shields.io/badge/Deloitte-Forage%20Simulation-2563EB?style=for-the-badge&logo=deloitte&logoColor=white" />
+<div align="center">
+Certifications
+
+<a href="https://drive.google.com/file/d/1B0Elf45cd6bwE5iVPvSvyPb-iAtNby9L/view?usp=sharing"><img src="https://img.shields.io/badge/JPMorgan%20Chase-Forage%20Simulation-4F46E5?style=for-the-badge&logo=jpmorganchase&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1dH1UEE087iWzPwK6V9NaH1sybOmQVcjv/view?usp=sharing"><img src="https://img.shields.io/badge/NPTEL-IIT%20Madras-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 <br/>
-<img src="https://img.shields.io/badge/Infosys%20Springboard-Certified-6D28D9?style=for-the-badge&logo=infosys&logoColor=white" />
-<img src="https://img.shields.io/badge/NPTEL-IIT%20Madras-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<a href="https://drive.google.com/file/d/1LrWuh93atBm_DGSzBwAR0b7RbVAIMpMZ/view?usp=sharing"><img src="https://img.shields.io/badge/Infosys%20Springboard-Deep%20Learning-2563EB?style=for-the-badge&logo=infosys&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1nTnb6eofQlYjcYyoOQySnT_ZNeTiLfQH/view?usp=sharing"><img src="https://img.shields.io/badge/Deloitte-Forage%20Simulation-6D28D9?style=for-the-badge&logo=deloitte&logoColor=white" /></a>
+<br/>
+<img src="https://img.shields.io/badge/Bluestock-Data%20Analyst%20Internship-4F46E5?style=for-the-badge" />
+
 </div>
+<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:2563EB&height=3&width=1000" width="90%"/>
+</div>
+<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6D28D9,100:2563EB&height=90&section=header&text=Positions%20of%20Responsibility&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
+</div>
+
+Volunteer, ISTE Student Chapter — event management, technical coordination, and creative design for student-focused technical programs and workshops
+Volunteer, Design Team, Data Questers — promotional content, event branding, and technical initiatives related to data science and analytics
+
+
 <br/>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:2563EB&height=3&width=1000" width="90%"/>
@@ -217,7 +232,7 @@ Collaborated cross-functionally to translate raw data into actionable visualizat
 <a href="https://codeforces.com/profile/Sharanyareddy_27"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 <a href="https://github.com/SharanyaReddy27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/guda-sharanya-reddy-55283433b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://sharanyareddy-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://sharanya-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 <br/>
@@ -293,7 +308,7 @@ yamlcurrent_focus:
 <br/>
 <a href="https://github.com/SharanyaReddy27"><img src="https://img.shields.io/badge/GitHub-SharanyaReddy27-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
 <br/>
-<a href="https://sharanyareddy-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sharanyareddy--portfolio.vercel.app-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://sharanya-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sharanya--portfolio.vercel.app-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <br/><br/>
 
