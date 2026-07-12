@@ -5,7 +5,7 @@
 </a>
 <br/>
 <p>
-  <a href="https://sharanya-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0F0C29?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
+  <a href="https://sharanya-protfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0F0C29?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
   <a href="https://linkedin.com/in/guda-sharanya-reddy-55283433b"><img src="https://img.shields.io/badge/LINKEDIN-0F0C29?style=for-the-badge&logo=linkedin&logoColor=818CF8" /></a>
   <a href="mailto:gudasharanyareddy2703@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F0C29?style=for-the-badge&logo=gmail&logoColor=6366F1" /></a>
   <a href="https://github.com/SharanyaReddy27"><img src="https://img.shields.io/badge/GITHUB-0F0C29?style=for-the-badge&logo=github&logoColor=C4B5FD" /></a>
@@ -232,7 +232,7 @@ Volunteer, Design Team, Data Questers — promotional content, event branding, a
 <a href="https://codeforces.com/profile/Sharanyareddy_27"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 <a href="https://github.com/SharanyaReddy27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/guda-sharanya-reddy-55283433b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://sharanya-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://sharanya-protfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 <br/>
@@ -308,7 +308,7 @@ yamlcurrent_focus:
 <br/>
 <a href="https://github.com/SharanyaReddy27"><img src="https://img.shields.io/badge/GitHub-SharanyaReddy27-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
 <br/>
-<a href="https://sharanya-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sharanya--portfolio.vercel.app-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://sharanya-protfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sharanya--portfolio.vercel.app-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -316,3 +316,4 @@ yamlcurrent_focus:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4F46E5,100:0F0C29&height=160&section=footer" width="100%"/>
 </div>
+
